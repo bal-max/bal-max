@@ -58,7 +58,7 @@
 ### [📊 Построение алгоритма, определяющего вероятность дефолта](https://github.com/bal-max/Gnome-orders)
 - Построить алгоритма, определяющего вероятность дефолта того или иного заказа на исторических данных из таверн различных гномьих общин с 2015-02-24 по 2016-09-30.
 - Использованы: Pandas, Matplotlib, Seaborn, Scikit-learn, 
-- Модели: lightgbm, CatBoostClassifier, RandomForestClassifier, SVC, KNeighborsClassifier, PCA, DBSCAN
+- Модели: lightgbm, CatBoostClassifier, RandomForestClassifier, SVC, KNeighborsClassifier, DBSCAN
 - Метрика: ROC-AUC
 - Cреда для работы с кодом: Jupyter Notebook
  
